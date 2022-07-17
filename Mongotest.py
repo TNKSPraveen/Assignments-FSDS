@@ -5,7 +5,14 @@ db = client.test
 
 print(db)
 
+
 d = {
+    "name" : "sudhanshu123",
+    "email": "sudhanshu@ineuron.ai",
+    "surname" : "kumar"
+}
+
+d2 = {
     "name" : "sudhanshu123",
     "email": "sudhanshu@ineuron.ai",
     "surname" : "kumar"
